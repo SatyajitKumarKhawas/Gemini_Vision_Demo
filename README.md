@@ -19,8 +19,8 @@ Users can upload an image, optionally add a question, and get a smart AI-generat
 #### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/gemini-image-demo.git
-cd gemini-image-demo
+git clone https://github.com/your-username/Gemini_Vision_Demo.git
+
 ```
 
 #### 2️⃣ Install dependencies
